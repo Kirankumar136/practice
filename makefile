@@ -16,6 +16,4 @@ pal.o: pal.c
 add2.o: add2.c
 	gcc -c add2.c
 
-clean:
-	rm -f *.o ABC.exe
 
